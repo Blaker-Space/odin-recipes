@@ -1,2 +1,6 @@
 # odin-recipes
 The Odin Project Recipes Project
+
+In this project, I demonstrate my capabilities in using Git and GitHub, Bash commands, VS Code, and HTML to construct a recipes webpage as a part of The Odin Project's curriculum.
+
+~ BlakerSpace
